@@ -1,4 +1,4 @@
-package com.empezando.empezandokotlin
+package com.empezando.empezandokotlin.sintaxis
 
 fun main(){
     /**
